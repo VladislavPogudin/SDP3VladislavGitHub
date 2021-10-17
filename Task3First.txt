@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 Test and modification
 
 This is for task 3!!!
-=======
+
 Test and modification!!!!!
->>>>>>> d58d1e76fbc4fa616c511a2bfa5925181798fca5
